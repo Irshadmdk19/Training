@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good mrng..Hey mann..am learning git.!
+=======
+Hey mann..am learning git.!
+>>>>>>> 172c6a837fc491dbe475c037576e497b0d7489a6
